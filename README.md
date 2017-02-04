@@ -1,6 +1,6 @@
 #Coursera Machine Learning
 
-Andrew Ng's Stanford course on Machine Learning on Coursera is one of the most well known introductions into the field. It provides intuition for various learning algorithms and their implementations without the need to already be an experienced mathematician or programmer. 
+Andrew Ng's Stanford course on Machine Learning is one of the most well known introductions to the field. It provides intuition for various learning algorithms and their implementations without the need to already be an experienced mathematician or programmer. 
 
 ###Prototyping
 The algorithms are implemented in MATLAB/Octave.  The course provides helper functions for things like plotting or processing data, but the core implementation of the algorithms is done by the students.
