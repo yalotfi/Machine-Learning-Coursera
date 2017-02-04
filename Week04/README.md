@@ -8,13 +8,17 @@ Using the same training data, a three layer NN (one input layer, one hidden laye
 
 ## My Code:
 * lrCostFunction.m
+
 ..* Logistic Regression cost function
 
 * oneVsAll.m
+
 ..* Train a one-vs-all K-class classifier (10 in this case)
 
 * predictOneVsAll.m
+
 ..* Predict using the trained model
 
 * predict.m
+
 ..* Neural Network prediction function
