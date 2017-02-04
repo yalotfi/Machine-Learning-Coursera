@@ -7,18 +7,10 @@ Implement one-vs-all logistic regression to recognize hand-written digits betwee
 Using the same training data, a three layer NN (one input layer, one hidden layer, and one output layer) can be used to classify the handwritten digits.  Performance-wise, logistic regression had an accuracy of 94% predicting new digits while the simple NN predicted 97.5% of unseen data.
 
 ## My Code:
-* lrCostFunction.m
+* lrCostFunction.m - Logistic Regression cost function
 
-..* Logistic Regression cost function
+* oneVsAll.m - Train a one-vs-all K-class classifier (10 in this case)
 
-* oneVsAll.m
+* predictOneVsAll.m - Predict using the trained model
 
-..* Train a one-vs-all K-class classifier (10 in this case)
-
-* predictOneVsAll.m
-
-..* Predict using the trained model
-
-* predict.m
-
-..* Neural Network prediction function
+* predict.m - Neural Network prediction function
